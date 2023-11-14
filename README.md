@@ -12,6 +12,37 @@ Este é um projeto em Python para um sistema de gestão de tratamentos medicamen
 
 3. **Acompanhamento de Tratamentos:**
    - Os médicos podem visualizar e acompanhar o progresso do tratamento de cada paciente, incluindo a aderência aos horários de administração.
+  
+## Recursos
+
+- Adicionar um novo plano de tratamento
+- Excluir um plano de tratamento existente
+- Atualizar um plano de tratamento existente
+- Listar todos os planos de tratamento
+
+## Uso
+
+Execute o arquivo main.py para iniciar o programa. Você será apresentado a um menu de opções:
+
+1. Adicionar um novo plano de tratamento
+2. Excluir um plano de tratamento existente
+3. Listar todos os planos de tratamento
+4. Atualizar um plano de tratamento existente
+5. Sair do programa
+
+Escolha uma opção inserindo o número correspondente.
+
+## Requisitos
+
+- Python 3
+- Biblioteca requests
+- Biblioteca tabulate
+
+## Instalação
+
+1. Clone este repositório
+2. Instale as bibliotecas necessárias com `pip install -r requirements.txt`
+3. Execute o programa com `python main.py`
 
 ### Contribuições
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto, por favor, siga as práticas usuais de desenvolvimento colaborativo e envie uma solicitação de pull.
