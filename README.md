@@ -2,6 +2,10 @@
 
 Este é um projeto em Python para um sistema de gestão de tratamentos medicamentosos, denominado HapBox. O sistema visa auxiliar médicos no cadastro e acompanhamento de tratamentos, permitindo a inclusão de medicamentos, horários de administração e facilitando a comunicação direta com os pacientes.
 
+Visite nosso site e saiba mais: https://blue260910.github.io/global-site/#/
+
+Assista um resumo do projeto: https://youtu.be/i2ywd4Ea0jQ
+
 ## Funcionalidades
 
 1. **Cadastro de Pacientes:**
