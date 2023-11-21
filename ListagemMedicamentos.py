@@ -3,6 +3,9 @@ import json
 from tabulate import tabulate
 
 def main():
+    print("____________________________________________")
+    print("      ＬＩＳＴＡＧＥＭ ＤＥ ＰＬＡＮＯＳ      ")
+    print("____________________________________________")
     url = "https://hapbox-f9157-default-rtdb.firebaseio.com/.json"
     response = requests.get(url)
 
@@ -26,6 +29,7 @@ def main():
             print("2 - Pesquisar por Email")
             print("3 - Pesquisar por ID")
             print("4 - Sair")
+            print("____________________________________________")
             choice = input("Digite sua escolha: ")
             results = []
             if choice == '1':

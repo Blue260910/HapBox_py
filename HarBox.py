@@ -5,11 +5,15 @@ import UpdateMedicamentos
 
 def main():
     while True:
+        print("___________________________________________")
+        print("        ＭＥＮＵ ＰＲＩＮＣＩＰＡＬ          ")
+        print("___________________________________________")
         print("1 - Cadastrar Plano de Tratamento")
         print("2 - Deletar Plano de Tratamento")
         print("3 - Listar Plano de Tratamento")
         print("4 - Atualizar Plano de Tratamento")  
         print("5 - Sair")  
+        print("___________________________________________")
         escolha = input("Digite sua escolha: ")
         if escolha == '1':
             CadastroMedicamentos.main()

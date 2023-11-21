@@ -80,9 +80,13 @@ def add_record():
         print("Falha ao postar dados no Firebase", response.status_code)
 
 def main():
+    print("____________________________________________")
+    print("ＣＡＤＡＳＴＲＡＭＥＮＴＯ ＤＥ ＰＬＡＮＯＳ")
+    print("____________________________________________")
     while True:
         print("1 - Adicionar cronograma de medicamentos")
         print("2 - Sair")
+        print("____________________________________________")
         choice = input("Digite sua escolha: ")
         if choice == '1':
             add_record()

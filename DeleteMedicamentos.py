@@ -2,6 +2,9 @@ import requests
 import json
 
 def main():
+    print("____________________________________________")
+    print("      ＥＸＣＬＵＳＡＯ ＤＥ ＰＬＡＮＯＳ      ")
+    print("____________________________________________")
 
     url = "https://hapbox-f9157-default-rtdb.firebaseio.com"
     response = requests.get(url + '/.json')
@@ -14,6 +17,7 @@ def main():
             print("2 - Deletar por email")
             print("3 - Deletar por ID")
             print("4 - Sair")
+            print("____________________________________________")
             escolha = input("Digite sua escolha: ")
             if escolha in ['1', '2', '3']:
                 if len(data) <= 3:
