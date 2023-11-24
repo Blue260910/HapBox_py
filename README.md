@@ -6,6 +6,16 @@ Visite nosso site e saiba mais: https://blue260910.github.io/global-site/#/
 
 Assista um resumo do projeto: https://youtu.be/i2ywd4Ea0jQ
 
+**Nome dos integrantes do grupo:** </br>
+- *Felipe Cortez dos Santos RM:99750* </br>
+- *Victor Hugo Aranda Forte RM:99667* </br>
+
+**Turma: (ESPW)**
+
+**Ano: 2023**
+
+# Informações de Acesso
+
 ## Funcionalidades
 
 1. **Cadastro de Pacientes:**
